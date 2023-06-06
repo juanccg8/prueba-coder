@@ -1,0 +1,60 @@
+CLASE 11 - GitHub
+
+Repositorios:
+
+https://github.com/cgldev/estudio-bruschetti --> SITIO SUBIDO EN GITHUB que subió el profesor y que lo hizo con bootstrap. 
+
+https://github.com/cgldev/moda-store --> SITIO SUBIDO EN GITHUB que subió el profesor y que lo hizo con bootstrap. 
+
+https://github.com/cgldev/insta-clone --> SITIO SUBIDO EN GITHUB que subió el profesor y que lo hizo con bootstrap. 
+
+https://github.com/cgldev/demo-bs --> sitio que hizo el profe en el After
+
+https://www.youtube.com/watch?v=QCw0L6FupQ0&t=12271s --> video para aprender Bootstrap 5, video capacitación. 
+
+https://codepen.io/collection/GoqqOG --> acá encontramos como hacer un carrusel de fotos en responsive. 
+
+El profe también subió en la carpeta de la clase 9 una carpeta que es "Sitio-HTML-CSS_BtsP" que es el archivo del sitio web que el profe venía haciendo durante la cursada pero ya hecho con bootstrap. Se puede ver bien claro que queda muy poco CSS luego de aplicar Bootstrap. Se suele utilizar mucho Bootstrap, y complemento con CSS cuando no me alcanza. 
+
+!!! --> recordar que para que funcione Bootstrap hay que poner un "script" antes del cierre de la etiqueta de body.
+
+¿QUÉ ES GITHUB? --> es una especie de red social de programadores. Con este sitio podemos subir nuestros proyectos y lograr que otras personas colaboren con ellos. Lo que subimos son nuestros "repositorios". 
+
+Tenemos que ir al sitio de GitHub, y vamos a "sign up for gitHub". 
+
+Ya me creé las credenciales de GitHub (recordar que el mail y el user tienen que coincidir con el que vaya a crear en GIT).
+
+User: juanccg8
+pass: ponzio2020
+mail: jcerratogarcia@hotmail.com 
+
+Recordar seleccionar la opción de "collaborative" mientras me voy logueando.  
+
+En el sitio principal de GitHug tenemos 2 pestañas. "For You" y "Following", en nuestro muro. En "following" estará el material de las empresas y los desarrolladores que suben. 
+
+En la parte izquierda aparecerán los repositorios que hemos creado nosotros. Apretaremos el botón "New" para linkear nuestro repositorio local con el de la web. 
+
+Está bueno ir arriba a la derecha y clickear en "your profile" para ver la contribución que ha hecho mi perfil. 
+
+Cuando creamos un repositorio siempre tenemos que elegir la opción "público". 
+
+Cuando creamos el repositorio , nos va a dar 2 listas de comandos.
+
+El primer conjunto de comandos nos sirve cuando estamos empezando de 0 en el local (es decir, no tenemos un repositorio local). Lo copiamos y pegamos en la terminal. Es cuando estamos empezando desde 0.
+
+En el caso en el que ya tengamos un repositorio local, selecciono el segundo repositorio. Copiamos y pegamos en la terminal y avanzamos. 
+
+PAra hacer Git + GitHub , hay que copiar y pegar los repositorios que nos da GitHub, no hay que hacerlo con lo que está en las diapositivas. 
+
+En el ejemplo del profe, el ya tenía la terminal creada en VSC de GIT. Entonces , lo que hizo fue a la terminal, y copió y pegó los enlaces que me dio la web.  De esa manera ya subió el repositorio, es decir, vemos la web de "index". 
+
+El comando "git push" es un comando que sirve para subir los cambios desde la terminal de VSC a GitHub. El profe en la clase crea un commit nuevo de una carpetita de CSS y lo actualiza vía git push. 
+
+Luego el campo "git pull" sirve para descargar los cambios integrados. En Git, el comando git pull se utiliza para fusionar los cambios remotos realizados en un repositorio en GitHub con la versión local de dicho repositorio. Realiza 2 acciones en conjunto:
+	- Recupera los cambios remotos.
+	- Fusiona los cambios. 
+
+GitHub Pages --> vamos la repositorio, activamos GitHub pages. Seleccionamos la rama que queremos usar. Guardamos los cambios y GitHub cumplirá la función básica de cualquier otro hostinh.
+GitHub pages solo sirve con archivos estáticos (con lso dinámicos de Java y demás no). 
+
+Para eso, vamos al sitio que subimos, vamos a settings, vamos a Brunch - Main. Luego presionamos "Save". Ahí esperamos unos segundos y me dará un vínculo, a que se genere el vínculo. Esperando un poco menos de un minuto, se verá el enlace / vínculo de nuestro proyecto ya colgado en la web. Podemos copiar este vinculo y pegarlo en la descripción del Repositorio de nuestro proyecto. Al costado del repositorio dice "About" : ahí en DEscription pongo un título, y donde dice "web" , pego el vínculo del repositorio para poder verlo online. 
